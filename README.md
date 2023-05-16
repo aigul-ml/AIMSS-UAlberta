@@ -14,6 +14,8 @@ This project aims to address this issue by developing a machine learning model c
 * Count the number of surgical objects present in an image.
 * Enhance the existing tool-counting process in the operating room.
 
+The objective of this project was to create a working ML application with the help of the interdisciplinary AIMSS team in 2021. The team consisted of various undergraduates and graduate students in computing science, biological sciences, and various other disciplines. Despite the project being a simple image recognition application taking in data via files, it serves as a viable prototype that satisfies the primary goals of the project. With Harish Prabhakar as the team lead for the group that are beginners with programming and Sacha Davis as the team lead for the backend with more experienced developers in ML and AI, a full stack application was created.
+
 ## Prerequisites
 1. python
 2. pip
