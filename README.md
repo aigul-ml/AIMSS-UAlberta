@@ -1,9 +1,20 @@
-# medical_tool_detection_2021
+# Medical Tool Detection
 AIMSS Community Project 2021 -- Medical tool object detection with deep learning
 
 ![website](https://user-images.githubusercontent.com/64624048/128646725-67b67a45-0bf4-4fc1-9cbb-ebb28f7be66c.PNG)
+## Surgical Object Detection and Counting Model
+### Overview
+During surgeries, a significant number of surgical tools are used, typically ranging from 250 to 300, and this number can increase depending on the complexity of the procedure. Unfortunately, a small percentage of abdominal operations, roughly 1/1000 to 1/3000, result in the unintentional retention of surgical objects within patients after surgery. These objects can include tweezers, scalpels, needles, sponges, towels, and more. Although surgical staff follow strict counting procedures to prevent such incidents, mistakes can still occur in the fast-paced and high-pressure environment of the operating room.
 
-## prerequisites
+This project aims to address this issue by developing a machine learning model capable of detecting, classifying, and counting surgical objects in an image. By leveraging the power of machine learning, we aim to create a prototype that can act as an additional tool for counting surgical objects, providing an extra layer of assurance in the operating room.
+
+### Features
+* Detect and identify surgical tools in images.
+* Classify different types of surgical objects.
+* Count the number of surgical objects present in an image.
+* Enhance the existing tool-counting process in the operating room.
+
+## Prerequisites
 1. python
 2. pip
 
